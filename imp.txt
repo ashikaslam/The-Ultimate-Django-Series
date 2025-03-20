@@ -1,0 +1,2 @@
+source ~/Desktop/Aslam/CodeJourney2025/myen/bin/activate
+
